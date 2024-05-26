@@ -11,3 +11,7 @@ Banking77 dataset is available in the repository. Also, link to the image datase
 Please cite our paper if you use our method, code, or data in your work:
 
 https://
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
