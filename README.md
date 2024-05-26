@@ -5,3 +5,9 @@ The Transformer architecture has revolutionized the fields of natural language p
 
 This repository contains the code and data required to replicate the experiments presented in the research paper "From Attention to Assurance: Enhancing Transformer Encoder Reliability through Advanced Testing and Online Error Prediction". 
 Banking77 dataset is available in the repository. Also, link to the image dataset is available in the codes.
+
+## Citation
+
+Please cite our paper if you use our method, code, or data in your work:
+
+https://
