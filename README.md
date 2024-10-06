@@ -34,7 +34,7 @@ This will allow you to evaluate and predict the performance of any Transformer m
 
 Please cite our paper if you use our method, code, or data in your work:
 
-https://
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4856933](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4856933)
 
 ## License
 
