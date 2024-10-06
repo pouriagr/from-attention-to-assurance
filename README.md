@@ -26,6 +26,10 @@ from attention_assurance import BERTAssurance, ViTAssurance
 
 You can then create instances of these classes and call their methods to evaluate test dataset coverage and predict error probability. See the `main.py` script for a detailed example.
 
+## Development
+To extend this framework to other Transformer models, you can create new assurance classes by inheriting from the base `Assurance` class and implementing the required methods. 
+This will allow you to evaluate and predict the performance of any Transformer model.
+
 ## Citation
 
 Please cite our paper if you use our method, code, or data in your work:
